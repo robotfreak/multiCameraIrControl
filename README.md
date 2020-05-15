@@ -6,7 +6,9 @@ Supported camera vendors: Canon, Minolta, Nikon, Olympus, Pentax, Sony,
 ## Schematic
 A simple schematic for the IR trigger
 
-![Fritzing Breadboard](Images/buspivot.jpg)
+![Fritzing Schematic](Images/CameraIrTrigger_Schaltplan.png)
+![Fritzing Breadboard](Images/CameraIrTrigger_Steckbrett.png)
+
 
 ## Credits
 
