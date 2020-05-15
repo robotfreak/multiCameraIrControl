@@ -1,13 +1,13 @@
 # multiCameraIrControl
 
-An Arduino library to remote trigger DSLR camera with an Infrared sender. 
+A powerful Arduino Library to control easy various cameras via IR. 
 Supported camera vendors: Canon, Minolta, Nikon, Olympus, Pentax, Sony,
 
 ## Schematic
 A simple schematic for the IR trigger
 
 ![Fritzing Schematic](Images/CameraIrTrigger_Schaltplan.png)
-![Fritzing Breadboard](Images/CameraIrTrigger_Steckbrett.png)
+![Fritzing Breadboard](Images/CameraIrTrigger_Steckpatine.png)
 
 
 ## Credits
@@ -32,4 +32,5 @@ Creative Commons, 171 Second Street, Suite 300, San Francisco, California, 94105
 * 2011-12-07 V1.7 - repairing Canon function - thanks to Viktor
 * 2013-02-11 V1.8 - adding toggleFocus for Pentax - thanks to Marcel Normann, adding toggleVideo for Sony - thanks to InfinitR
 *            V1.9 - adding CanonWLDC100 support - thanks to ImaRH
+* 2020-05-15 V1.10 - added description, schematic, fix compiler warnings by robotfreak
 
