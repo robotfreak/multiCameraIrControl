@@ -33,7 +33,7 @@
 
 #include "multiCameraIrControl.h"
 
-void wait(unsigned int time){
+void wait(unsigned long time){
   unsigned long start = micros();
   while(micros()-start<=time){
   }
